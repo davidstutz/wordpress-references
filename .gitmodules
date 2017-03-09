@@ -1,0 +1,3 @@
+[submodule "vendor/jquery-references"]
+	path = vendor/jquery-references
+	url = https://github.com/davidstutz/jquery-references
