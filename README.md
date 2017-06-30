@@ -2,6 +2,8 @@
 
 Small and naive plugin to easily create labels and references as in LaTeX/BibTeX based on [davidstutz/jquery-references](https://github.com/davidstutz/jquery-references)
 
+**Also check [this blog article](http://davidstutz.de/easily-referencing-publications-listings-or-figures-using-jquery-and-wordpress/).**
+
 ## Installation
 
 In `wp-content/plugins`, create a new folder `wordpress-references` and put all files within this repository in this folder. In the backend, go to "Plugins" -> "Installed Plugins" and activate "Wordpress References".
